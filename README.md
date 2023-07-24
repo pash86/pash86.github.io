@@ -1,1 +1,7 @@
-# pash86.github.io
+# Data scientist
+
+### Education
+
+### Work experience 
+
+### Projects
