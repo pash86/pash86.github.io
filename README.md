@@ -4,6 +4,6 @@
   Phd
 ### Work experience 
   Developer
-  - Projext 1
+  - Project 1
   - New project
 ### Projects
